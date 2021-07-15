@@ -1,0 +1,157 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,900&display=swap");
+
+#instoreBanner {
+  background-color: #f2fff7;
+  background-image: url(../images/worldMap.png);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.headingBanner {
+  padding-left: 20px;
+  padding-top: 60px;
+}
+
+.serviceCard {
+  border: none;
+  background-color: #2d324d;
+  color: #fff;
+}
+
+.headerSection {
+  font-weight: 300;
+  font-size: 35px;
+}
+
+.headerPara {
+  font-weight: 300;
+  margin-top: -15px;
+}
+.description {
+  font-size: 16px;
+  font-weight: 300;
+  color: #252525;
+}
+
+.serviceHead {
+  font-size: 18px;
+  font-weight: 300;
+  padding: 15px;
+}
+
+.servicePara {
+  font-size: 13px;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: justify;
+  padding-bottom: 15px;
+}
+
+#service {
+  margin-top: 40px;
+}
+.service-row {
+  background-color: #1152f2;
+  height: 100vh;
+  opacity: 0.8;
+}
+.instore-section {
+  background-image: url(../images/brands/bg.png);
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-attachment: fixed;
+}
+
+.service-description h3 {
+  color: #fff;
+  font-size: 70px;
+  margin-left: 70px;
+}
+.service-description img {
+  width: 180px;
+  margin-left: 70px;
+  margin-top: 70px;
+}
+.service-description p {
+  margin-left: 70px;
+}
+
+.info-description {
+  color: #f2fff7;
+  font-size: 90px;
+  margin-top: 200px;
+  margin-left: 50px;
+  font-weight: 500;
+}
+
+.info-subtitle {
+  color: #f2fff7;
+  margin-left: 50px;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.let-connect-button {
+  margin-top: 40px;
+  margin-left: 50px;
+  border: none;
+  background-color: #1152f2;
+  border-radius: 30px;
+  color: #f2fff7;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.how-to-title h3 {
+  font-size: 50px;
+  font-weight: 500;
+  color: #1152f2;
+  margin-bottom: 100px;
+}
+
+.how-to-title .title {
+  font-size: 45px;
+  color: #1152f2;
+  font-weight: 500;
+}
+.how-to-title ul li {
+  font-size: 22px;
+  margin-top: 20px;
+  font-weight: 300;
+}
+
+.description-continue .text {
+  font-size: 25px;
+  line-height: 30px;
+  margin-top: 20px;
+  font-weight: 500;
+  color: #1152f2;
+  text-align: justify;
+}
+
+.description-continue ul li {
+  font-size: 20px;
+}
+.image-side {
+  margin-top: 90px;
+}
+
+.heading-title {
+  color: #1152f2;
+  font-size: 30px;
+  font-weight: 300;
+}
+
+.description-title-head {
+  color: #2d324d;
+  font-size: 16px;
+  text-align: justify;
+}
+
+.card-section {
+}

@@ -1,0 +1,196 @@
+#aboutusBanner {
+  background-position: center;
+  object-fit: cover;
+  opacity: 0.9;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../images/aboutHeader.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  /* background-image: url(../images/aboutHeader.jpg); */
+}
+.bannerRow {
+  margin-left: 5%;
+}
+.bannerHeading {
+  font-size: 35px;
+  margin-top: 20%;
+  margin-bottom: 20%;
+  position: relative;
+  color: #fff;
+  text-shadow: 1px 1px #7be595;
+}
+.headingSection {
+  text-align: center;
+}
+.descriptionAboutus .homePagePrimaryText {
+  width: 80%;
+  margin: 0px auto;
+}
+.descriptionAboutus {
+  background-color: #ebebeb;
+  text-align: center;
+  margin: 0px auto;
+  padding: 26px;
+}
+@media screen and (max-width: 720px) {
+  .descriptionAboutus {
+    width: 98%;
+  }
+}
+
+.scrolling-wrapper {
+  overflow-x: auto;
+  overflow-y: visible;
+}
+
+.card-block {
+  height: 250px;
+  background-color: #fff;
+  border: none;
+  background-position: center;
+  background-size: cover;
+  transition: all 0.2s ease-in-out !important;
+  border-radius: 24px;
+}
+
+.box {
+  min-height: 150px;
+  min-width: 150px;
+  background-color: #7be595;
+  margin-top: 10px;
+}
+.scrolling-wrapper {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none;
+}
+
+.yearTag {
+  color: #ffff;
+  font-size: 24px;
+  padding-top: 60px;
+  padding-left: 10px;
+}
+
+.valueBox {
+  min-height: 150px;
+  background-color: #7be595;
+  padding: 20px;
+}
+
+.valueHeading {
+  color: #fff;
+  font-weight: 300;
+  text-align: center;
+}
+.valueDescription {
+  color: #fff;
+  font-weight: 200;
+  text-align: justify;
+  font-size: 15px;
+}
+#coreValues {
+  padding-top: 20px;
+  background-color: aliceblue;
+  padding-bottom: 60px;
+}
+#journey {
+  margin-top: 100px;
+}
+#leaders {
+  background-color: #f2fff7;
+}
+.leaderCard {
+  border: none;
+  background-color: aliceblue;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.leaderhead {
+  font-weight: 300;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.leaderDescription {
+  font-size: 13px;
+  font-weight: 300;
+  margin-top: -10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: justify;
+}
+.nameHead {
+  font-weight: 300;
+  font-size: 23px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.positionTag {
+  margin-top: -13px;
+  margin-left: 10px;
+}
+.leaderCard {
+  min-height: 270px;
+}
+.profileImage {
+  max-width: 240px;
+  max-height: auto;
+  margin: 0px auto;
+  text-align: center;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+#mapLocation {
+  background-color: #1152f2;
+}
+
+.contactHeading {
+  color: #fff;
+  font-weight: 200;
+  font-size: 20px;
+}
+.addressBar {
+  color: #fff;
+}
+
+.team3 .subtitle {
+  color: #8d97ad;
+  line-height: 24px;
+  font-size: 13px;
+}
+
+.team3 ul {
+  margin-top: 30px;
+}
+
+.team3 h5 {
+  line-height: 22px;
+  font-size: 18px;
+}
+
+.team3 ul li a {
+  color: #8d97ad;
+  padding-right: 15px;
+  -webkit-transition: 0.1s ease-in;
+  -o-transition: 0.1s ease-in;
+  transition: 0.1s ease-in;
+}
+
+.team3 ul li a:hover {
+  -webkit-transform: translate3d(0px, -5px, 0px);
+  transform: translate3d(0px, -5px, 0px);
+  color: #316ce8;
+}
+
+.team3 .title {
+  margin: 30px 0 0 0;
+}
+
+.team3 .subtitle {
+  margin: 0 0 20px 0;
+  font-size: 13px;
+}
+.icons {
+  font-size: 30px;
+}

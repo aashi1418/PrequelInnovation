@@ -1,0 +1,65 @@
+#digitalEcommerce {
+  background-color: #f2fff7;
+  background-image: url(../images/worldMap.png);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.mainHeader {
+  font-weight: 300;
+  font-size: 38px;
+  margin-top: 30%;
+  color: #464646;
+  text-shadow: 1px 1px #828783;
+}
+
+.mainTag {
+  font-weight: 200;
+  font-size: 15px;
+}
+.cardEcommerce {
+  border: none;
+  background-color: #7be595;
+  color: #f2fff7;
+}
+.cardEcommerceHeading {
+  font-size: 18px;
+  font-weight: 300;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+}
+
+.cardEcommerceText {
+  font-weight: 200;
+  font-size: 14px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 15px;
+}
+
+.boxBenfit {
+  max-width: 300px;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin: 0px auto;
+  margin-top: 5px;
+  background-color: #ffff;
+}
+
+.benefitsHeading {
+  font-size: 20px;
+  font-weight: 300;
+}
+.benefitsText {
+  font-size: 16px;
+  margin-top: -10px;
+  font-weight: 200;
+}
+.couting {
+  font-size: 45px;
+  color: #d1d1d1;
+  margin-top: 14px;
+  font-weight: 600;
+}

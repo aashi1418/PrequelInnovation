@@ -1,0 +1,122 @@
+.instore-section {
+  background-image: url(../images/brands/bg-1.png);
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-attachment: fixed;
+}
+
+.service-description h3 {
+  color: #fff;
+  font-size: 70px;
+  margin-left: 70px;
+}
+.service-description img {
+  width: 180px;
+  margin-left: 70px;
+  margin-top: 70px;
+}
+.service-description p {
+  margin-left: 70px;
+}
+
+.info-description {
+  color: #f2fff7;
+  font-size: 90px;
+  margin-top: 200px;
+  margin-left: 50px;
+  font-weight: 500;
+}
+
+.info-subtitle {
+  color: #f2fff7;
+  margin-left: 50px;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.let-connect-button {
+  margin-top: 40px;
+  margin-left: 50px;
+  border: none;
+  background-color: #1152f2;
+  border-radius: 30px;
+  color: #f2fff7;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.how-to-title h3 {
+  font-size: 50px;
+  font-weight: 500;
+  color: #1152f2;
+  margin-bottom: 100px;
+}
+
+.how-to-title .title {
+  font-size: 45px;
+  color: #1152f2;
+  font-weight: 500;
+}
+.how-to-title ul li {
+  font-size: 22px;
+  margin-top: 20px;
+  font-weight: 300;
+}
+
+.description-continue .text {
+  font-size: 25px;
+  line-height: 30px;
+  margin-top: 20px;
+  font-weight: 500;
+  color: #1152f2;
+  text-align: justify;
+}
+
+.description-continue ul li {
+  font-size: 20px;
+}
+.image-side {
+  margin-top: 90px;
+}
+
+.heading-title {
+  color: #1152f2;
+  font-size: 30px;
+  font-weight: 300;
+}
+
+.description-title-head {
+  color: #2d324d;
+  font-size: 16px;
+  text-align: justify;
+}
+
+.card-section {
+}
+
+.prequel-brand-title {
+  color: #1152f2;
+  font-size: 30px;
+  line-height: 40px;
+}
+
+.heading-section .heading {
+  color: #1152f2;
+  font-size: 40px;
+  padding-top: 60px;
+  text-align: center;
+}
+.heading-section .brand-tag-line {
+  color: #1152f2;
+  font-size: 25px;
+  width: 70%;
+}
+.content-section-container {
+  min-height: 300px;
+  background-image: url(../images/brands/design.png);
+  background-size: cover;
+}

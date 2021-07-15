@@ -1,0 +1,62 @@
+<section
+        id="welcomeBanner"
+        style="
+          background-size: cover;
+          background-image: url('../static/images/welcome/welcomeBg1.png');
+          background-attachment: fixed;
+        "
+      >
+        <div class="container pt-5">
+          <div class="row">
+            <div
+              class="
+                col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12
+                mainContainerContentBox
+                d-flex
+                justify-content-center
+              "
+            >
+              <div class="WelcomeDescription" style="">
+                <h5
+                  class="welcomeTextTitle"
+                  data-aos="zoom-in"
+                  data-aos-delay="500"
+                  data-aos-duration="1000"
+                >
+                  PREQUEL INNOVATION
+                </h5>
+                <!-- <P class="welcomeTextSubTitle">WE help buisnese to grow with an WE help buisnese to grow with an  
+                  WE help buisnese to grow with an WE help buisnese to grow with anWE help buisnese to grow with an</P> -->
+                <p class="app">
+                  We help Retailers to Grow thier buisness with Technology
+                </p>
+              </div>
+            </div>
+            <div
+              class="
+                col-xl-12 col-lg-12 col-md-12 col-12
+                d-flex
+                justify-content-center
+              "
+            >
+              <!-- <p  style=" text-align: center; color: #252525; font-size: 14px; font-weight: 500;">It is a long established fact that a reader will be distracted by the readable content of a page when looking at 
+              its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed
+              to using 'Content here, content here', making it look like readable English</p> -->
+            </div>
+            <div class="col-xl-12">
+              <div
+                class="imageSection"
+                data-aos-delay="1000"
+                data-aos="zoom-in"
+              >
+                <img
+                  src="../static/images/welcome/ecommerceImage.png"
+                  alt=""
+                  srcset=""
+                  class="img-fluid"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
